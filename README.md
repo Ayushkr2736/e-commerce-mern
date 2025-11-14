@@ -1,6 +1,3 @@
-# ShopX - Full Stack E-Commerce Platform
-
-A powerful and feature-rich e-commerce platform built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates modern web development practices with a complete shopping experience including user authentication, product management, shopping cart, payment processing, and an admin dashboard.
 
 ## 🚀 Features
 
